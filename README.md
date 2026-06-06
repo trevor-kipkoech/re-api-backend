@@ -12,4 +12,5 @@ This is the backend API service for the real-estate application, designed to man
 - [Database Name]
 
 ## Installation
+npm install
 
